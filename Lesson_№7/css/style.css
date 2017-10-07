@@ -1,0 +1,98 @@
+.section {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333333;
+}
+
+.section-main {
+	padding: 30px 10%;
+}
+
+.header-main {
+	font-size: 24px;
+	text-align: center;
+}
+
+.header-main span {
+	font-weight: 300;
+	display: block;
+}
+
+.header-main strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.main {
+	text-align: center;
+	margin-top: 80px;
+}
+
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.video {
+	padding-right: 30px;
+}
+
+.form {
+	margin-top: 10px;
+	border: 5px solid #2727d9;
+}
+
+.form input {
+	width: 300px;
+	margin: 10px;
+	padding: 15px;
+	display: block;
+}
+
+.email {
+	font-weight: 600;
+	font-size: 20px;
+	text-align: center;	
+}
+
+.btn {
+	font-size: 18px;
+	font-weight: 900;
+	background-color: #4644CA;
+	color: #ffffff;
+	border: none;
+	width: 300px;
+	height: 60px;
+	margin: 15px;
+}
+
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 40px;
+}
+
+
+.section {
+	text-align: center;
+}
+
+.header {
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	width: 900px;
+	font-size: 24px;
+}
+
+.people {
+	text-align: center;
+}
+
+.people img {
+	margin: 10px;
+}

@@ -1,0 +1,31 @@
+.header {
+	opacity: 0.8;
+	width: 100%;
+	background-color: black;
+	position: fixed;
+	height: 50px
+	left: 0px;
+	top: 0;
+	margin-left: -8px;
+}
+
+ul {
+	text-align: right;
+	margin: 0;
+	padding: 10px;
+}
+
+li {
+
+	display: inline-block;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.lorem {
+	margin-top: 40px;
+}

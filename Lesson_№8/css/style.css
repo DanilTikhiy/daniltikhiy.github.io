@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	margin-top: 150px;
+	margin-bottom: 50px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+.header {
+	margin-bottom: 150px;
+}
+
+.row {
+	justify-content: center;
+}
+
+.features {
+	text-align: center;
+}
+
+.features-img {
+	height: 150px;
+}

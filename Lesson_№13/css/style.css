@@ -1,0 +1,69 @@
+.box {
+	width: 570px;
+	height: 570px;
+}
+
+.margin {
+	border: 1px solid grey;
+	margin: 100px 125px;
+	height: 370px;
+	width: 320px;
+}
+
+
+.block {
+	width: 150px;
+	height: 25px;
+	background-color: #01b3b3;
+	margin-top: -4px;
+	margin-left: 30px;
+	padding: 5px 8px;
+	display: inline-block;
+}
+
+.block-header {
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 12px;
+	color: white;
+}
+
+.email-header,.password-header,.cfrm-password-header {
+	font-weight: 600;
+	font-size: 12px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.email {
+	width: 260px;
+	height: 30px;
+	margin-left: 30px;
+	padding: 10px 0 10px 10px;
+}
+
+span {
+	color: #01b3b3;
+}
+
+.password-header {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.cfrm-password-header {
+	margin-top: 18px;
+	margin-bottom: 10px;
+}
+
+button {
+	margin: 35px 30px 0 30px;
+	width: 260px;
+	height: 45px;
+}
+
+strong {
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 16px;
+}

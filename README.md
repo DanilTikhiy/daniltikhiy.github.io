@@ -12,7 +12,7 @@
 ### [Урок №7](https://daniltikhiy.github.io/Lesson_№7/ "Моя домашка под урок №7") - Мой первый сайт на чистом Html + CSS
 ### [Урок №8](https://daniltikhiy.github.io/Lesson_№8/ "Моя домашка под урок №8") - Сайт с использованием сетки bootstrap
 ### [Урок №9](https://daniltikhiy.github.io/Lesson_№9/ "Моя домашка под урок №9") - Сайт с урока №7 только построенный на сетке bootstrap
-### [Урок №10 (Он пока не сделан =) )](https://daniltikhiy.github.io/Lesson_№10_(not ready)/"Моя не сделанная домашка под урок №10") - Препроцессор LESS
+### [Урок №10 (Он пока не сделан =)](https://daniltikhiy.github.io/Lesson_№10_(not ready)/ "Моя не сделанная домашка под урок №10") - Препроцессор LESS
 ### [Урок №11](https://daniltikhiy.github.io/Lesson_№11/ "Моя домашка под урок №11") - Сниппеты
 ### [Урок №12](https://daniltikhiy.github.io/ "Моя домашка под урок №12") - То место, где вы сейчас находитесь :)
 ### [Урок №13](https://daniltikhiy.github.io/Lesson_№13/ "Моя домашка под урок №13") - Сайт в стиле pixel perfect

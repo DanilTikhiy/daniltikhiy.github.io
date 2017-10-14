@@ -18,5 +18,6 @@
 ### [Урок №13](https://daniltikhiy.github.io/Lesson_№13/ "Моя домашка под урок №13") - Сайт в стиле pixel perfect
 ### [Практика №1](https://daniltikhiy.github.io/Practice_№1/ "Моя домашка к практике №1") - Шапка реального макета
 ### [Урок №14](https://daniltikhiy.github.io/Lesson_№14/ "Моя домашка под урок №14") - Подключение шрифтов
+### [Практика №2](https://daniltikhiy.github.io/Practice_№2/ "Моя домашка к практике №2") - Шапка реального макета
 ### [Урок №15](https://daniltikhiy.github.io/Lesson_№15/ "Моя домашка под урок №15") - Псевдоклассы и псевдоэлементы
 ### [Урок №16](https://daniltikhiy.github.io/Lesson_№16/ "Моя домашка под урок №16") - Слайдер для фото

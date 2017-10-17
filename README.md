@@ -16,9 +16,10 @@
 ### [Урок №11](https://daniltikhiy.github.io/Lesson_№11/ "Моя домашка под урок №11") - Сниппеты
 ### [Урок №12](https://daniltikhiy.github.io/ "Моя домашка под урок №12") - То место, где вы сейчас находитесь :)
 ### [Урок №13](https://daniltikhiy.github.io/Lesson_№13/ "Моя домашка под урок №13") - Сайт в стиле pixel perfect
-### [Практика №1](https://daniltikhiy.github.io/Practice_№1/ "Моя домашка к практике №1") - Шапка реального макета
+### [Практика №1](https://daniltikhiy.github.io/Practice_№1/ "Моя домашка к практике №1") - Шапка макета
 ### [Урок №14](https://daniltikhiy.github.io/Lesson_№14/ "Моя домашка под урок №14") - Подключение шрифтов
-### [Практика №2](https://daniltikhiy.github.io/Practice_№2/ "Моя домашка к практике №2") - Заголовок реального макета
+### [Практика №2](https://daniltikhiy.github.io/Practice_№2/ "Моя домашка к практике №2") - Заголовок макета
 ### [Урок №15](https://daniltikhiy.github.io/Lesson_№15/ "Моя домашка под урок №15") - Псевдоклассы и псевдоэлементы
 ### [Практика №3](https://daniltikhiy.github.io/Practice_№3/ "Моя домашка к практике №3") - Добавление анимации и адаптивности практике №2
-### [Урок №16](https://daniltikhiy.github.io/Lesson_№16/ "Моя домашка под урок №16") - Слайдер для фото ( не работает на гитхабе :( )
+### [Урок №16](https://daniltikhiy.github.io/Lesson_№16/ "Моя домашка под урок №16") - Слайдер для фото
+### [Практика №4](https://daniltikhiy.github.io/Practice_№4/ "Моя домашка к практике №4") - Второй блок макета

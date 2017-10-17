@@ -148,22 +148,38 @@ section {
   text-align: right;
 }
 @media (max-width: 991px) {
-  .main-title {
-    text-align: center;
-  }
-  .main {
-    background: #ffffff url(../img/main-bg.jpg) top left no-repeat;
-    background-size: cover;
-  }
+	html {
+	font-size: 9px;
+	}
+
+ .main-title {
+ 	text-align: center;
+ }
+ .main {
+ 	 background: #fff url(../img/main-bg.jpg) top left no-repeat;
+ 	 background-size: cover;
+ }
 }
+
 @media (max-width: 767px) {
-  .logo {
-    text-align: center;
-  }
-  .phonelink {
-    text-align: center;
-  }
-  .wrap-block {
-    text-align: center;
-  }
+	html {
+		font-size: 8px;
+	}
+	.logo {
+		text-align: center;
+	}
+	.phonelink {
+		text-align: center;
+	}
+	.wrap-block {
+		text-align: center;
+
+	}
+	.main-content-header {
+		font-size: 3rem;
+	}
+	.main-trigger {
+		margin-bottom: 2rem;
+	}
 }
+

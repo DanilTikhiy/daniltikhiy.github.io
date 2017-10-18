@@ -201,6 +201,9 @@ section {
   display: block;
   margin: 0 auto;
 }
+.slick-arrow {
+  border: none;
+}
 @media (max-width: 991px) {
   html {
     font-size: 9px;

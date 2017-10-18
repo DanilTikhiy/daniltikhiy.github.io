@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Всплывающее окно</title>
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<link rel="stylesheet" href="bootstrap3/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">		
+	</head>
+	
+	<body>
+		<div class="container">
+			<a href="#my-modal" class="link" data-toggle="modal">asas</a>
+			<button class="btn btn-danger btn-lg" data-toggle="modal" data-target="#my-modal">Удалить файл</button>
+		</div>
+		
+		<div class="modal fade" id="my-modal">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title">Вы действительно  хотите удалить файл?</h4>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Нет</button>
+		        <button type="button" class="btn btn-primary">Да</button>
+		      </div>
+		    </div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</body>
+</html>

@@ -26,3 +26,8 @@
 ### [Урок №17](https://daniltikhiy.github.io/Lesson_№17/ "Моя домашка под урок №17") - Модальное (всплывающее) окно
 ### [Практика №5](https://daniltikhiy.github.io/Practice_№5/ "Моя домашка к практике №5") - Модальное окно в макете
 ### [Практика №6](https://daniltikhiy.github.io/Practice_№6/ "Моя домашка к практике №6") - Третий блок макета
+### [Практика №7](https://daniltikhiy.github.io/Practice_№7/ "Моя домашка к практике №7") - Четвёртый блок макета
+### [Урок №20](https://daniltikhiy.github.io/Lesson_№20/ "Моя домашка под урок №20") - Видео-фон
+### [Практика №8](https://daniltikhiy.github.io/Practice_№8/ "Моя домашка к практике №8") - Довёртска четвёртого блока
+### [Практика №9](https://daniltikhiy.github.io/Practice_№9/ "Моя домашка к практике №9") - Пятый блок макета
+### [Практика №10](https://daniltikhiy.github.io/Practice_№10/ "Моя домашка к практике №10") - Шестой блок макета
